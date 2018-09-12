@@ -60,7 +60,7 @@
   background-color: #FAFAF8;
 }
 .toolbar {
-  background-color: #DCDADC;
+  background-color: #dcdadc;
 }
 .toolbar-button {
   background-color: #FFFFFF;
@@ -69,10 +69,10 @@
   background-color: #AAAAAA;
 }
 .note-selectors {
-  border-right: 1px solid #DCDADC;
+  border-right: 1px solid #dcdadc;
 }
 .note-selector {
-  border-bottom: 1px solid #DCDADC;
+  border-bottom: 1px solid #dcdadc;
 }
 .note-selector.active {
   background-color: #FCE18D;
@@ -85,7 +85,7 @@
   background-color: inherit;
 }
 .note-editor-info {
-  color: #DCDADC;
+  color: #dcdadc;
 }
 
 /* TYPOGRAPHY */
