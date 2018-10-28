@@ -1,6 +1,9 @@
 # Notes
 
+![](screenshot.png)
+
 ## Features
+
 - Store notes as an array of object
 - Display note titles on the left
 - Select a note on title click
