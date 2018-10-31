@@ -1,4 +1,3 @@
-import('../src/Main.elm').then(({ Elm }) => {
-  const app = document.getElementById('app');
-  Elm.Main.init({ node: app });
-});
+import { Elm } from '../src/Main.elm';
+
+Elm.Main.init({ node: document.getElementById('app') });
