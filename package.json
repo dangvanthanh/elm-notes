@@ -1,11 +1,10 @@
 {
   "name": "elm-notes",
-  "description": "## Features - Store notes as an array of object - Display note titles on the left - Select a note on title click - Edit the selected note on input - Create a new note with a button - Delete the selected note with a button - Filter notes on search input",
+  "description": "Simple notes with elm",
   "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {},
+  "main": "src/app.js",
   "scripts": {
-    "start": "parcel app/index.html"
+    "start": "parcel ./src/index.html"
   },
   "repository": {
     "type": "git",
@@ -17,7 +16,11 @@
     "url": "https://github.com/dangvanthanh/elm-notes/issues"
   },
   "homepage": "https://github.com/dangvanthanh/elm-notes#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  },
   "devDependencies": {
+    "elm": "^0.19.0-bugfix2",
     "node-elm-compiler": "^5.0.1"
   }
 }
