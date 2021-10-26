@@ -12,6 +12,6 @@
 - Delete the selected note with a button
 - Filter notes on search input
 
-# License
+## License
 
-MIT © [Dang Van Thanh](https://dangthanh.org)
+MIT Â© [Dang Van Thanh](https://dangthanh.org)
