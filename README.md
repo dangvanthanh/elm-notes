@@ -11,3 +11,7 @@
 - Create a new note with a button
 - Delete the selected note with a button
 - Filter notes on search input
+
+# License
+
+MIT © [Dang Van Thanh](https://dangthanh.org)
